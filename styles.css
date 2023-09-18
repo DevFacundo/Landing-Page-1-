@@ -113,9 +113,16 @@ body {
 }
 
 .column img {
+    opacity: .7;
     width: 100%; 
     height: auto;      /*lo uso para mantener la proporción del aspecto de las imagenes */
 }
+
+
+
+
+
+
 
 @media screen and (max-width: 768px) {
     #nav-bar {
