@@ -45,12 +45,10 @@
 }
 
 
-#video {
-    width: 100%;
-    max-width: 800px;
-    display: block;
-    margin: 20px auto;
-}
+ #video {
+    width:560px; 
+    height:315px;
+} 
 
 
 #form {
@@ -130,5 +128,13 @@ body {
     }
     .nav-link {
         margin: 10px 0;
+    }
+    #video {
+       width: 100%;
+       height: auto;
+}
+    #section1{
+        margin-left: 0;
+        margin-right: 0;
     }
 }
